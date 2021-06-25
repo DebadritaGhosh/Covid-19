@@ -1,0 +1,16 @@
+body{
+    background-color: #CAD5E2;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.logo{
+    font-family: 'Lobster', cursive;
+    color: #5A20CB;
+}
